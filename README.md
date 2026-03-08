@@ -1,6 +1,6 @@
 # Hey, I'm POOLnOODLE
 
-Software developer interested in databases, text editors, and typesetting.
+Data analysis and business intelligence consultant with 16 years in the industry. I specialize in complex data-driven decision support, working primarily in Neovim with Python and SQL.
 
 ## What I work with
 
