@@ -16,7 +16,7 @@ Data analysis and business intelligence consultant with 16 years in the industry
 
 ![Languages](./github-languages.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bew4lsh&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=bew4lsh&theme=dark)
 
 ## Open Source & Projects
 
