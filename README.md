@@ -25,7 +25,7 @@ Data analysis and business intelligence consultant with 16 years in the industry
 
 ## GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bew4lsh&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=bew4lsh&background=0D1117&border=FFFFFF&stroke=58A6FF&ring=1F6FEB&fire=1F6FEB&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bew4lsh&theme=github-dark)
 
