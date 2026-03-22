@@ -7,6 +7,7 @@ Data analysis and business intelligence consultant with 16 years in the industry
 [![My Skills](https://skillicons.dev/icons?i=neovim,lua,nix,python,latex,docker)](https://skillicons.dev)
 
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Typst](https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white)
 
 ## GitHub Activity
