@@ -1,3 +1,5 @@
+![Visitors](https://komarev.com/ghpvc/?username=bew4lsh&style=flat-square)
+
 # Hey, I'm POOLnOODLE
 
 Data analysis and business intelligence consultant with 16 years in the industry. I build ETL/ELT pipelines, run ad-hoc diagnostic analyses, and develop KPI reporting for executive stakeholders — translating complex domain data into actionable decisions for business leaders. Most of my experience is in logistics and datacenter/infrastructure management. I work primarily in Neovim with Python and SQL.
@@ -30,7 +32,3 @@ Data analysis and business intelligence consultant with 16 years in the industry
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bew4lsh&theme=github-dark)
 
 ![Languages](./github-languages.svg)
-
----
-
-![Visitors](https://komarev.com/ghpvc/?username=bew4lsh&style=flat-square)
