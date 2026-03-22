@@ -16,6 +16,8 @@ Data analysis and business intelligence consultant with 16 years in the industry
 
 ![Languages](./github-languages.svg)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=bew4lsh&theme=default)
+
 ## Open Source & Projects
 
 - Growing collection of Neovim plugins: [ogma.nvim](https://github.com/POOLnOODLE/ogma.nvim), [aerial-tsql](https://github.com/POOLnOODLE/aerial-tsql), [disunion.nvim](https://github.com/POOLnOODLE/disunion.nvim), [asperity.nvim](https://github.com/POOLnOODLE/asperity.nvim)
@@ -28,3 +30,7 @@ Data analysis and business intelligence consultant with 16 years in the industry
   - [Fetter](https://github.com/POOLnOODLE/fetter) — complex project management inside Neovim
   - [DuckMetrics](https://github.com/POOLnOODLE/duckmetrics) — embedded timeseries metrics warehouse and dashboarding (DuckDB/Python)
   - Neovim plugin development
+
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=bew4lsh&style=flat-square)
