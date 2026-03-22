@@ -31,9 +31,11 @@ jobs:
           user: bew4lsh
           filename: github-languages.svg
           base: ""
+          repositories_affiliations: owner
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 8
+          plugin_languages_other: yes
           extras_css: |
             * { color: #c9d1d9 !important; }
             svg { background-color: #0d1117 !important; }
