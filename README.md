@@ -1,4 +1,6 @@
 ![Visitors](https://komarev.com/ghpvc/?username=bew4lsh&style=flat-square)
+![Followers](https://img.shields.io/github/followers/bew4lsh?style=flat-square)
+![Stars](https://img.shields.io/github/stars/bew4lsh?style=flat-square)
 
 # Hey, I'm POOLnOODLE
 
