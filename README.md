@@ -12,7 +12,7 @@ Data analysis and business intelligence consultant with 16 years in the industry
 
 ## GitHub Activity
 
-![Contribution Calendar](./github-isocalendar.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bew4lsh&theme=github-dark)
 
 ![Languages](./github-languages.svg)
 
