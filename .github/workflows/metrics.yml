@@ -21,8 +21,10 @@ jobs:
           plugin_isocalendar_duration: half-year
           extras_css: |
             * { color: #c9d1d9 !important; }
-            svg { background-color: #0d1117 !important; }
+            svg, section, .row, .field { background-color: #0d1117 !important; }
             h2 { color: #c9d1d9 !important; }
+            .field { border-color: #30363d !important; }
+            text { fill: #c9d1d9 !important; }
 
       - name: Languages
         uses: lowlighter/metrics@latest
@@ -38,5 +40,7 @@ jobs:
           plugin_languages_other: yes
           extras_css: |
             * { color: #c9d1d9 !important; }
-            svg { background-color: #0d1117 !important; }
+            svg, section, .row, .field { background-color: #0d1117 !important; }
             h2 { color: #c9d1d9 !important; }
+            .field { border-color: #30363d !important; }
+            text { fill: #c9d1d9 !important; }
