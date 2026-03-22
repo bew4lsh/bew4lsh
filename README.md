@@ -14,7 +14,7 @@ Data analysis and business intelligence consultant with 16 years in the industry
 
 ![Contribution Calendar](./github-isocalendar.svg)
 
-![Coding Habits](./github-habits.svg)
+![Languages](./github-languages.svg)
 
 ## Open Source & Projects
 
