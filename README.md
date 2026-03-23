@@ -17,15 +17,15 @@ Data analysis and business intelligence consultant with 16 years in the industry
 
 ## Open Source & Projects
 
-- Growing collection of Neovim plugins: [ogma.nvim](https://github.com/POOLnOODLE/ogma.nvim), [aerial-tsql](https://github.com/POOLnOODLE/aerial-tsql), [disunion.nvim](https://github.com/POOLnOODLE/disunion.nvim), [asperity.nvim](https://github.com/POOLnOODLE/asperity.nvim)
+- Growing collection of Neovim plugins: [ogma.nvim](https://github.com/bew4lsh/ogma.nvim), [aerial-tsql](https://github.com/bew4lsh/aerial-tsql), [disunion.nvim](https://github.com/bew4lsh/disunion.nvim), [asperity.nvim](https://github.com/bew4lsh/asperity.nvim)
 - Declarative reproducible system builds with NixOS
 - Infrastructure as code, CI/CD, and operations management
 
 ## Active Hyperfocus
 
 - Development workflow optimization
-  - [Fetter](https://github.com/POOLnOODLE/fetter) — complex project management inside Neovim
-  - [DuckMetrics](https://github.com/POOLnOODLE/duckmetrics) — embedded timeseries metrics warehouse and dashboarding (DuckDB/Python)
+  - [Fetter](https://github.com/bew4lsh/fetter) — complex project management inside Neovim
+  - [DuckMetrics](https://github.com/bew4lsh/duckmetrics) — embedded timeseries metrics warehouse and dashboarding (DuckDB/Python)
   - Neovim plugin development
 
 ## GitHub Activity
