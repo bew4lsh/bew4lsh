@@ -5,7 +5,7 @@
 
 # Hey, I'm POOLnOODLE
 
-Data analysis and business intelligence consultant with 16 years in the industry. I build ETL/ELT pipelines, run ad-hoc diagnostic analyses, and develop KPI reporting for executive stakeholders — translating complex domain data into actionable decisions for business leaders. Most of my experience is in logistics and datacenter/infrastructure management. I work primarily in Neovim with Python and SQL.
+Data analysis and business intelligence consultant with 17 years in the industry. I build ETL/ELT pipelines, run ad-hoc diagnostic analyses, and develop KPI reporting for executive stakeholders — translating complex domain data into actionable decisions for business leaders. Most of my experience is in logistics and datacenter/infrastructure management. I work primarily in Neovim with Python and SQL.
 
 ## What I work with
 
